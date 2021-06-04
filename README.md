@@ -1,4 +1,4 @@
-# FightForYourLife__WPFGame## Hegedűs Máté- ISGUOH
+# FightForYourLife__WPFGame## Veres Levente- PPKMX9//Hegedűs Máté- ISGUOH
 
 # Rövid Leírás
 
@@ -19,9 +19,6 @@ Ha bolt mezőre lépünk, akkor lehetőségünk van fejleszteni a
 támadóerőnket, védekezésünket, támadási sebességet és
 visszatölthetjük életerőnket. Az itt elkölthető pénzt az utunk során
 bírjuk felszedni szörnyektől vagy ládákból.
-
-
-## Hegedűs Máté- ISGUOH
 
 # Fejlesztői szerepkörök definiálása
 
@@ -55,11 +52,6 @@ Hősünk a jobbra nyíl/UI-on található gomb segítségével támad.
 
 ## UI-on található gombok koncepciója
 
-```
-(illusztráció)
-```
-
-## Hegedűs Máté- ISGUOH
 
 # Karakterek leírása
 
@@ -91,8 +83,6 @@ több fajta). Ezek élet/támadási ereje különbözik.
 
 A legutolsó blokkon pedig biztosan egy főellenség található.
 
-
-## Hegedűs Máté- ISGUOH
 
 ## Bolt:
 
